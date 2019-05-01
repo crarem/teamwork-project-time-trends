@@ -1,1 +1,1 @@
-# Calculating and presenting total team time on all Teamwork.com account projects
+# Calculating total team time by month logged on all Teamwork.com projects
